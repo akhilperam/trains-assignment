@@ -1,0 +1,15 @@
+1->None of these
+2->10Sec
+3->none of these
+4->32Sec
+5->240&660
+6->none of these 
+7->3:2
+8->9:16
+9->79. 2 km/hr.
+10->14.4Sec
+11->230
+12->10:00
+13->45
+14->4 hours 20 min
+15->12
